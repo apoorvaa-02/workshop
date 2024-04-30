@@ -18,4 +18,4 @@ if __name__ == "__main__":
     data = "Apoorva"
 
     # Generate QR code image
-    generate_qr_code(data, "qrcode.png")import qrcode
+    generate_qr_code(data, "qrcode.png")
